@@ -14,7 +14,7 @@ namespace Euan
             string pronouns = @"he/him";
             
 			Console.WriteLine($"Hi! I'm {name}");
-			Console.WriteLine($"My pronounds are {pronouns}");
+			Console.WriteLine($"My pronouns are {pronouns}");
 			Console.WriteLine($"I'm currently learning {code[0]} and {code[1]}");
         }
     }
