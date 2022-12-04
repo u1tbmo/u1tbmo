@@ -16,6 +16,7 @@ namespace Euan
 			Console.WriteLine($"Hi! I'm {name}");
 			Console.WriteLine($"My pronouns are {pronouns}");
 			Console.WriteLine($"I'm currently learning {code[0]} and {code[1]}");
+            Console.WriteLine("I'm pretty much a beginner right now don't tease me. 😭");
         }
     }
 }
