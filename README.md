@@ -5,21 +5,22 @@ using System;
 
 namespace Euan
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-			string[] code = {"C#", "Python"};
+            string[] code = {"C#", "Python"};
             string name = "Euan Jed Tabamo";
             string pronouns = @"he/him";
-            
-			Console.WriteLine($"Hi! I'm {name}");
-			Console.WriteLine($"My pronouns are {pronouns}");
-			Console.WriteLine($"I'm currently learning {code[0]} and {code[1]}");
+
+            Console.WriteLine($"Hi! I'm {name}");
+            Console.WriteLine($"My pronouns are {pronouns}");
+            Console.WriteLine($"I'm currently learning {code[0]} and {code[1]}");
             Console.WriteLine("I'm pretty much a beginner right now don't tease me. 😭");
         }
     }
 }
+
 ```
 
 <!--
