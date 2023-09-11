@@ -1,11 +1,15 @@
 ### Hello there! 👋
 
+![Hello there! My name is Euan. @u1tbmo](images/euan-header.png)
+
 Hello! 👋 My name is Euan. I am taking BS Computer Science from the University of the Philippines Los Baños.
 
 I have a huge interest in coding and programming. I also aspire to be a game developer in the future.
-I am currently studying Python, C, C++, and C#.
 
-Pronouns: he/him
+![Python](images/python_32x32.png) ![C](images/c_32x32.png) ![C++](images/cpp_32x32.png) ![C#](images/csharp_32x32.png)
+
+🌱 I’m currently learning Python, C, C++, and C#\
+😄 Pronouns: he/him
 
 <!--
 **u1tbmo/u1tbmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
