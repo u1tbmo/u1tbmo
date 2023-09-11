@@ -1,26 +1,11 @@
 ### Hello there! 👋
 
-```csharp
-using System;
+Hello! 👋 My name is Euan. I am taking BS Computer Science from the University of the Philippines Los Baños.
 
-namespace Euan
-{
-    public class Program
-    {
-        static void Main(string[] args)
-        {
-            string[] code = {"C#", "Python"};
-            string name = "Euan Jed Tabamo";
-            string pronouns = @"he/him";
+I have a huge interest in coding and programming. I also aspire to be a game developer in the future.
+I am currently studying Python, C, C++, and C#.
 
-            Console.WriteLine($"Hi! I'm {name}");
-            Console.WriteLine($"My pronouns are {pronouns}");
-            Console.WriteLine($"I'm currently learning {code[0]} and {code[1]}");
-        }
-    }
-}
-
-```
+Pronouns: he/him
 
 <!--
 **u1tbmo/u1tbmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
