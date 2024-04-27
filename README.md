@@ -1,7 +1,5 @@
 ### Hello there! 👋
 
-![Hello there! My name is Euan. @u1tbmo](images/euan-header.png)
-
 Hello! 👋 My name is Euan. I am taking BS Computer Science from the University of the Philippines Los Baños.
 
 I have a huge interest in coding and programming. I also aspire to be a game developer in the future.
