@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-Hello! 👋 My name is Euan. I am taking BS Computer Science from the University of the Philippines Los Baños.
+Hello! I'm Euan. I am currently taking BS Computer Science from the University of the Philippines Los Baños.
 
 I have a huge interest in coding and programming. I also aspire to be a game developer in the future.
 
