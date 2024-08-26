@@ -4,9 +4,9 @@ Hello! I'm Euan. I am currently taking BS Computer Science from the University o
 
 I have a huge interest in coding and programming. I also aspire to be a game developer in the future.
 
-![Python](images/python_32x32.png) ![C](images/c_32x32.png) ![C++](images/cpp_32x32.png) ![C#](images/csharp_32x32.png)
+![Python](images/python_32x32.png) ![C](images/c_32x32.png) ![Java](images/java_32x32.png) ![C#](images/csharp_32x32.png)
 
-🌱 I’m currently learning Python, C, C++, and C#\
+🌱 I’m currently learning Python, C, Java, and C#\
 😄 Pronouns: he/him
 
 <!--
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ...
 -->
