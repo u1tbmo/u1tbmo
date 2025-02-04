@@ -4,9 +4,7 @@ Hello! I'm Euan. I am currently taking BS Computer Science from the University o
 
 I have a huge interest in coding and programming. I also aspire to be a game developer in the future.
 
-![Python](images/python_32x32.png) ![C](images/c_32x32.png) ![Java](images/java_32x32.png) ![C#](images/csharp_32x32.png)
-
-🌱 I’m currently learning Python, C, Java, and C#\
+🌱 I’m currently learning Full Stack Web Development, Mobile Development with Flutter, and Databases.
 😄 Pronouns: he/him
 
 <!--
