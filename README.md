@@ -1,12 +1,8 @@
 ### Hello there! 👋
 
-Hello! I'm Euan. I am currently taking BS Computer Science from the University of the Philippines Los Baños.
-
-I have a huge interest in coding and programming. I also aspire to be a game developer in the future.
+Hello! I'm Euan and I have a huge interest in coding and programming. I am currently taking BS Computer Science from the University of the Philippines Los Baños. 
 
 [![u1tbmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=u1tbmo&hide=stars,contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-🌱 I’m currently learning Full Stack Web Development, Mobile Development with Flutter, and Databases.
 
 😄 Pronouns: he/him
 
